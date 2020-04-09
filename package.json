@@ -1,6 +1,6 @@
 {
   "name": "shopify-theme-sync-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Webpack plugin with Browsersync to help streamline your Shopify theme development",
   "main": "index.js",
   "scripts": {
