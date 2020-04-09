@@ -1,6 +1,6 @@
 {
   "name": "shopify-theme-sync-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Webpack plugin with Browsersync to help streamline your Shopify theme development",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,8 @@
     "url": "https://github.com/akillmer/shopify-theme-sync-plugin/issues"
   },
   "homepage": "https://github.com/akillmer/shopify-theme-sync-plugin#readme",
-  "dependencies": {
-    "browser-sync": "^2.26.7"
+  "peerDependencies": {
+    "browser-sync": "^2.18.8",
+    "webpack": "^4.0.0 || ^5.0.0"
   }
 }
