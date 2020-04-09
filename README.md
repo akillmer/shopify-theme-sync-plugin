@@ -96,7 +96,7 @@ Here's an example `webpack` config showing how to use these options:
         logLevel: 'silent',
         ignore: ['*.json'],
       },
-	},
+    },
   ]
 }
 ```
