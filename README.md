@@ -6,14 +6,16 @@ _**NB:** This `webpack` plugin is not officially endorsed, sponsored, or provide
 
 ## Getting Started
 
+Install `browser-sync` (2.18.8 or higher) if you're not using it already.
+
 ```
-npm install shopify-theme-sync-plugin --save-dev
+npm install browser-sync shopify-theme-sync-plugin --save-dev
 ```
 
 &mdash; _or_ &mdash;
 
 ```
-yarn add shopify-theme-sync-plugin --dev
+yarn add browser-sync shopify-theme-sync-plugin --dev
 ```
 
 Make sure that `theme` from [Shopify's Theme Kit](https://shopify.github.io/themekit/) is available on your `$PATH` and has [access to your store's API](https://shopify.github.io/themekit/#get-api-access).
