@@ -1,0 +1,28 @@
+{
+  "name": "shopify-theme-sync-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin with BrowserSync to help streamline your Shopify theme development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akillmer/shopify-theme-sync-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "shopify",
+    "theme",
+    "browsersync"
+  ],
+  "author": "Andrew Killmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akillmer/shopify-theme-sync-plugin/issues"
+  },
+  "homepage": "https://github.com/akillmer/shopify-theme-sync-plugin#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
